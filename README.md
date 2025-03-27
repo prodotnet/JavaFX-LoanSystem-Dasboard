@@ -1,4 +1,4 @@
-# JavaFx Loan System Dasboard
+# JavaFx Loan System Dashboard
 
 **Prodotnet** is a project that demonstrates expertise in Java Development and showcases various skills, including software design, algorithm development, and documentation. This repository serves as a comprehensive resource for Java-based application development.
 
@@ -34,4 +34,4 @@ Here’s an overview of the repository structure:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/prodotnet.git
+   git clone [https://github.com/yourusername/prodotnet.git](https://github.com/prodotnet/JavaFX-LoanSystem-Dasboard.git)
