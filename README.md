@@ -1,6 +1,6 @@
 # JavaFx Loan System Dashboard
 
-**Prodotnet** is a project that demonstrates expertise in Java Development and showcases various skills, including software design, algorithm development, and documentation. This repository serves as a comprehensive resource for Java-based application development.
+**JavaFx Loan System Dashboard** is a project that demonstrates expertise in Java Development and showcases various skills, including software design, algorithm development, and documentation. This repository serves as a comprehensive resource for Java-based application development.
 
 ## Skills Used
 
