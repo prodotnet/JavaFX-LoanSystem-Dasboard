@@ -1,0 +1,51 @@
+.manageLoansButton, .viewStatisticsButton,.dashboardButton {
+    -fx-background-color: #333333;
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+    -fx-padding: 10 20;
+    -fx-background-radius: 5; /* Rounded corners */
+}
+
+.manageLoansButton:hover, .viewStatisticsButton:hover,.dashboardButton:hover  {
+    -fx-background-color: blue; /* Darker color on hover */
+}
+
+.dropdownMenu {
+    -fx-background-color: #444444;
+    -fx-text-fill: white;
+    -fx-padding: 10 20;
+    -fx-font-size: 14px;
+}
+
+.dropdownMenu .list-cell {
+    -fx-background-color: #333333;
+}
+.header{
+
+    -fx-background-color: #333333;
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+    -fx-padding: 10 20;
+    -fx-background-radius: 5; /* Rounded corners */
+
+
+}
+
+.title{
+
+    
+}
+
+
+
+.number-label {
+    -fx-font-size: 18px; /* Adjust the font size as needed */
+    -fx-font-weight: bold; /* Make the text bold */
+    -fx-text-fill: white; /* Set the text color */
+    -fx-background-color: rgba(0, 0, 0, 0.5); /* Set a background color with transparency */
+    -fx-padding: 5px 10px; /* Add some padding around the text */
+    -fx-border-radius: 5px; /* Add rounded corners */
+    -fx-border-color: white; /* Set the border color */
+    -fx-border-width: 2px; /* Set the border width */
+    -fx-alignment: center;
+}
