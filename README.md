@@ -30,8 +30,3 @@ Here’s an overview of the repository structure:
 - **Java**: Primary language (81.8%)
 - **CSS**: Used for styling (18.2%)
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/prodotnet.git](https://github.com/prodotnet/JavaFX-LoanSystem-Dasboard.git)
